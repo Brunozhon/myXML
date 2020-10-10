@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<file type="text/html">
+  <title>My website</title> <!-- This title will not be rendered -->
+  <include file="intro.html" />
+  <caption>
+  You can use &amp;amp; to display a ampersand (&amp;). You can
+  use &amp;lt; to display less then (&lt;). See more at 
+  <link url="enties.html">enities.html</link>. Only less than and
+  ampersand are strictly iligal, but you should still remenber
+  to use &amp;gt; for greater than (&gt;).
+  </caption>
+</file>
